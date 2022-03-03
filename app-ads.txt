@@ -251,9 +251,7 @@ yahoo.com, 59025, RESELLER, e1a5b5b6e3255540
 yieldlab.net, 2172218, RESELLER
 
 // is
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
-
+ironsrc.com, 223053, DIRECT
 ninthdecimal.com, 6364d3f0f495b6ab9dcf8d3b5c6e0b01, RESELLER, 3aff2148687b274b
 admanmedia.com, 9, RESELLER
 appnexus.com, 7445, RESELLER
